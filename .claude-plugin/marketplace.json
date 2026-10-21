@@ -1329,7 +1329,7 @@
         "url": "https://github.com/incident-io/skills.git",
         "path": "plugins/incident-io",
         "ref": "main",
-        "sha": "443f47164eda1f93108ebd908843925f681954ef"
+        "sha": "88f0a65b17dccd819ed5aa661e98c248fe3309e5"
       },
       "homepage": "https://incident.io"
     },
